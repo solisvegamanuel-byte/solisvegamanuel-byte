@@ -25,7 +25,3 @@ I'm passionate about transforming raw data into actionable business insights.
 - **Andes Retail Group:** Revenue and profitability dashboard.
 - **Real Estate Analytics:** Property sales performance analysis.
 
-### 📈 My GitHub Stats
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact)
-  
