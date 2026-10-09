@@ -23,12 +23,12 @@ I'm passionate about transforming raw data into actionable business insights.
 ### 📁 Featured Projects
 
 - **[🚀 RappiPlus: E-commerce Analytics](https://github.com/solisvegamanuel-byte/Proyecto-RappiPlus-De-datos-a-decisiones-de-negocio)**  
-  Data cleaning, business KPIs, revenue analysis and interactive dashboards using Python, SQL and Power BI.
+  End-to-end e-commerce analytics using Python, SQL and Power BI. Data cleaning, KPI development, revenue analysis and interactive dashboards.
 
-- **📊 NovaRetail+ | Explorando los factores que impulsan el valor del cliente**  
-  Revenue, profitability and sales performance analysis across Latin America using Power BI and DAX.
+- **[📊 NovaRetail+: Customer Behavior Analytics](https://github.com/solisvegamanuel-byte/Proyecto_sprint8_analisis_novaretail)**  
+  Customer behavior analysis using Python, Pandas and NumPy. Exploring relationships between purchasing patterns, marketing activity and annual revenue.
 
-- **🏠 Real Estate Analytics**  
-  Property sales analysis, revenue KPIs and interactive Power BI dashboards.
+- **[🏠 Real Estate Analytics: BI Dashboard](https://github.com/solisvegamanuel-byte/real-estate-bi-dashboard)**  
+  Real estate business intelligence using Power BI. Sales performance, revenue KPIs, sales channels and interactive dashboards.
 
 
