@@ -25,7 +25,7 @@ I'm passionate about transforming raw data into actionable business insights.
 - **[🚀 RappiPlus: E-commerce Analytics](https://github.com/solisvegamanuel-byte/Proyecto-RappiPlus-De-datos-a-decisiones-de-negocio)**  
   Data cleaning, business KPIs, revenue analysis and interactive dashboards using Python, SQL and Power BI.
 
-- **📊 Andes Retail Group**  
+- **📊 NovaRetail+ | Explorando los factores que impulsan el valor del cliente**  
   Revenue, profitability and sales performance analysis across Latin America using Power BI and DAX.
 
 - **🏠 Real Estate Analytics**  
